@@ -1,0 +1,1 @@
+public enum FieldType {Text, DateValue, IntValue,DecimalValue}
